@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<VehicleConfigurationDetails>
+  
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle01</vehicleID>
+    <range>1500</range>
+    <weight>60</weight>
+    <carryCapacity>12</carryCapacity>
+    <topspeed>25</topspeed>
+    <noise>60</noise>
+    <cylinders>2</cylinders>
+  </vehicle>
+
+  <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle02</vehicleID>
+    <range>2500</range>
+    <weight>30</weight>
+    <carryCapacity>10</carryCapacity>
+    <topspeed>23</topspeed>
+    <voltage>40</voltage>
+    <brushed>0</brushed>
+  </vehicle>
+
+
+  <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle03</vehicleID>
+    <range>2000</range>
+    <weight>30</weight>
+    <carryCapacity>15</carryCapacity>
+    <topspeed>27</topspeed>
+    <voltage>30</voltage>
+    <brushed>1</brushed>
+  </vehicle>
+
+
+  <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle04</vehicleID>
+    <range>1000</range>
+    <weight>40</weight>
+    <carryCapacity>10</carryCapacity>
+    <topspeed>21</topspeed>
+    <voltage>45</voltage>
+    <brushed>1</brushed>
+  </vehicle>
+
+
+  <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle05</vehicleID>
+    <range>3000</range>
+    <weight>45</weight>
+    <carryCapacity>13</carryCapacity>
+    <topspeed>25</topspeed>
+    <voltage>35</voltage>
+    <brushed>0</brushed>
+  </vehicle>
+
+
+  <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle06</vehicleID>
+    <range>1500</range>
+    <weight>35</weight>
+    <carryCapacity>20</carryCapacity>
+    <topspeed>27</topspeed>
+    <voltage>45</voltage>
+    <brushed>1</brushed>
+  </vehicle>
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle07</vehicleID>
+    <range>2500</range>
+    <weight>35</weight>
+    <carryCapacity>10</carryCapacity>
+    <topspeed>35</topspeed>
+    <noise>60</noise>
+    <cylinders>2</cylinders>
+  </vehicle>
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle08</vehicleID>
+    <range>3500</range>
+    <weight>55</weight>
+    <carryCapacity>20</carryCapacity>
+    <topspeed>30</topspeed>
+    <noise>55</noise>
+    <cylinders>4</cylinders>
+  </vehicle>
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle09</vehicleID>
+    <range>3500</range>
+    <weight>50</weight>
+    <carryCapacity>20</carryCapacity>
+    <topspeed>25</topspeed>
+    <noise>70</noise>
+    <cylinders>4</cylinders>
+  </vehicle>
+
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle10</vehicleID>
+    <range>3500</range>
+    <weight>50</weight>
+    <carryCapacity>15</carryCapacity>
+    <topspeed>45</topspeed>
+    <noise>75</noise>
+    <cylinders>2</cylinders>
+  </vehicle>
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle11</vehicleID>
+    <range>3500</range>
+    <weight>30</weight>
+    <carryCapacity>5</carryCapacity>
+    <topspeed>55</topspeed>
+    <noise>40</noise>
+    <cylinders>2</cylinders>
+  </vehicle>
+  
+  
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle12</vehicleID>
+    <range>4500</range>
+    <weight>40</weight>
+    <carryCapacity>5</carryCapacity>
+    <topspeed>60</topspeed>
+    <noise>30</noise>
+    <cylinders>4</cylinders>
+  </vehicle>
+
+  
+    <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle13</vehicleID>
+    <range>3500</range>
+    <weight>49</weight>
+    <carryCapacity>13</carryCapacity>
+    <topspeed>25</topspeed>
+    <voltage>30</voltage>
+    <brushed>0</brushed>
+  </vehicle>
+  
+   <vehicle>
+    <engine>Electric</engine>
+    <vehicleID>Vehicle14</vehicleID>
+    <range>4000</range>
+    <weight>40</weight>
+    <carryCapacity>10</carryCapacity>
+    <topspeed>25</topspeed>
+    <voltage>20</voltage>
+    <brushed>1</brushed>
+  </vehicle>
+
+  <vehicle>
+    <engine>Petrol</engine>
+    <vehicleID>Vehicle15</vehicleID>
+    <range>1000</range>
+    <weight>35</weight>
+    <carryCapacity>15</carryCapacity>
+    <topspeed>40</topspeed>
+    <noise>65</noise>
+    <cylinders>2</cylinders>
+  </vehicle>
+  
+</VehicleConfigurationDetails>
