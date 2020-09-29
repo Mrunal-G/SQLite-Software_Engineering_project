@@ -50,6 +50,7 @@ Introduction
 
 The notion of transferring data into relational SQLite databases via XML files is gaining popularity. The report deals with the documentation of the development process of the ‘Autonomous Vehicle Configuration Details (AVCD) App’ which is a software solution to allow an organisation to store configuration details of vehicles in XML format and transfer the data into the given relational database so that the users with different access levels can retrieve information from the database for analysis.
 
+![pic](https://github.com/MrunalGavali/SQLite-project/blob/master/SQLite.PNG)
 
 <!-- :: \pagebreak -->
 
